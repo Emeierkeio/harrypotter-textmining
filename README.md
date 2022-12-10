@@ -1,3 +1,5 @@
+![harrypotter-textmining](./logos/logo.png)
+
 # harrypotter-textmining
 2022/23 Text Mining project @ University of Milano-Bicocca
 
